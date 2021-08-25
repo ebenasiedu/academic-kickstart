@@ -6,7 +6,7 @@ widget: blank
 widget_id: Ebenezer Asiedu
 headless: true
 weight: 15
-title: Academic Template
+title: Ebenezer Asiedu
 subtitle: ""
 active: true
 design:
